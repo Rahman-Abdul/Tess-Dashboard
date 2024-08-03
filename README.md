@@ -1,16 +1,5 @@
 # [Tess TailwindCSS React Typescript ⚡️]
 
-![version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/horizon-ui/horizon-tailwind-react-ts.svg?maxAge=2592000)](https://github.com/horizon-ui/horizon-tailwind-react-ts/issues?q=is%3Aopen+is%3Aissue)
-
-<p>&nbsp;</p>
-
-[<img alt="Horizon UI - Tailwind CSS React Admin dashboard template" src="https://i.ibb.co/1zhBQ2J/horizon-ui-tailwind-2.png" />](https://github.com/horizon-ui/horizon-tailwind-react-ts)
-
-<p>&nbsp;</p>
-
-
 Get started and build your dream web app with Horizon UI, the trendiest & innovative Open Source Admin Template for Tailwind CSS & React!
 
 ---
@@ -38,13 +27,12 @@ Each element is well presented in a very complex documentation. You can read mor
 
 Install Horizon UI by running either of the following:
 
-- Install NodeJS LTS from [NodeJs Official Page](https://nodejs.org/en/?ref=horizon-documentation) (NOTE: Product only works with LTS version).
+- Install NodeJS LTS from  (NOTE: Product only works with LTS version).
 
 Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/horizon-ui/horizon-tailwind-react-ts.git
-```
+git clone https://github.com/Rahman-Abdul/Tess-Dashboard.git
 
 Run in terminal this command:
 
