@@ -90,15 +90,3 @@ some advices for our users that want to report an issue:
    encountered the issue might help.
 
 ---
-
-### Community
-
-Connect with the community! Feel free to ask questions, report issues, and meet new people that already use Horizon UI!
-
-💬 [Join the #HorizonUI Discord Community!](https://discord.gg/f6tEKFBd4m)
-
-### Copyright and license
-
-⭐️ [Copyright 2023 Horizon UI ](https://www.horizon-ui.com/?ref=readme-horizon-tailwind-react-ts)
-
-📄 [Horizon UI License](https://www.simmmple.com/licenses?ref=readme-horizon-tailwind-react-ts)
