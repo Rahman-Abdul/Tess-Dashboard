@@ -2,7 +2,6 @@
 
 import { HiX } from "react-icons/hi";
 import Links from "./components/Links";
-
 import routes from "routes";
 
 const Sidebar = (props: {
